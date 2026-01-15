@@ -1,19 +1,10 @@
-# AgentForge — Лендинг запуска AI-агента
+# AgentForge
 
-![Preview](https://cdn.poehali.dev/templates/ai-agent-launch-ru/preview.jpg)
+![Preview](https://cdn.poehali.dev/templates/ai-agent-launch-ru/cover.jpg)
 
-Лендинг для запуска AI-продукта или агента. Градиентный фон, анимации, секции с функциями и тарифами.
+Яркий лендинг для запуска AI-продукта или автономного агента. Насыщенные градиенты, анимированные элементы, структурированные блоки с функциями и тарифными планами. Идеален для product launch, краудфандинга или привлечения первых пользователей.
 
-## Quick Start
-
-```bash
-npm install
-npm run dev
 ```
-
-## Tech Stack
-
-- React 18 + Vite
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
+"category": "saas"
+"tags": ["gradient", "modern", "ai", "pricing"]
+```
